@@ -22,5 +22,8 @@ Belajar kelas Memulai Pemrograman dengan Java. (Progres 100%)
 - Berlatih dengan membuat program untuk menghitung suhu air, vokal konsonan, dan bangun datar. 
 - Mengerjakan ujian akhir untuk menilai kemahiran diri.
 
-1 September 2022
+**1 September 2022**
 Belajar kelas Git
+
+- Belajar bagaimana styling di readme
+- basic dari git, seperti commit, checkout, revert, reset
