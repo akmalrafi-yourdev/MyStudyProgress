@@ -1,5 +1,5 @@
 # MyStudyProgress
-Progress Belajar - Dicoding
+### Progress Belajar - Dicoding
 
 **14 Juni 2021**
 Belajar kelas Memulai Pemrograman dengan Java. (Progres 21%)
